@@ -13,6 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing <project_name>
 
+
 To install <project_name>, follow these steps:
 
 Linux and macOS:
@@ -33,6 +34,7 @@ To use <project_name>, follow these steps:
 ```
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+
 
 ## Contributing to <project_name>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
